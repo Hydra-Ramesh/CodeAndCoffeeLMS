@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "It is Backend Of Our LMS",
+  "homepage": "https://github.com/Hydra-Ramesh/CodeAndCoffeeLMS#readme",
+  "bugs": {
+    "url": "https://github.com/Hydra-Ramesh/CodeAndCoffeeLMS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hydra-Ramesh/CodeAndCoffeeLMS.git"
+  },
+  "license": "ISC",
+  "author": "Ramesh Das",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prettier": "^3.6.2"
+  }
+}
